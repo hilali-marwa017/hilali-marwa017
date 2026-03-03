@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2D9CDB&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Hilali+Marwa+%F0%9F%91%8B;Web+Developer;React+%26+Laravel+Focused;Building+Clean+Web+Applications" />
@@ -18,6 +17,8 @@
 </div>
 
 ---
+
+<div align="center">
 
 ## 🚀 Tech Stack
 
@@ -46,3 +47,27 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
+
+---
+
+## 📌 Featured Projects
+
+### 🍽 Restaurant Management
+<p>
+React.js · Bootstrap · Axios · REST API  
+<a href="https://github.com/hilali-marwa017/restaurant-management" target="_blank">View on GitHub</a>
+</p>
+
+### 📋 Task Manager
+<p>
+JavaScript · Local Storage · Bootstrap  
+<a href="https://github.com/hilali-marwa017/task-manager" target="_blank">View on GitHub</a>
+</p>
+
+### 🌐 Portfolio Website
+<p>
+HTML5 · CSS3 · Bootstrap  
+<a href="https://github.com/hilali-marwa017/portfolio-website" target="_blank">View on GitHub</a>
+</p>
+
+</div>
