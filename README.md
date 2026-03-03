@@ -54,13 +54,26 @@
 
 ## 📌 Featured Projects
 
-### 🍽 Restaurant Management
-React.js · Bootstrap · Axios · REST API  
+<div align="center">
 
-### 📋 Task Manager
-JavaScript · Local Storage · Bootstrap  
-
-### 🌐 Portfolio Website
-HTML5 · CSS3 · Bootstrap  
+<table>
+<tr>
+<td align="center" width="220">
+**🍽 Restaurant Management**<br>
+React.js · Bootstrap · Axios · REST API<br>
+[![View Code](https://img.shields.io/badge/View_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hilali-marwa017/restaurant-management)
+</td>
+<td align="center" width="220">
+**📋 Task Manager**<br>
+JavaScript · Local Storage · Bootstrap<br>
+[![View Code](https://img.shields.io/badge/View_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hilali-marwa017/task-manager)
+</td>
+<td align="center" width="220">
+**🌐 Portfolio Website**<br>
+HTML5 · CSS3 · Bootstrap<br>
+[![View Code](https://img.shields.io/badge/View_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hilali-marwa017/portfolio-website)
+</td>
+</tr>
+</table>
 
 </div>
